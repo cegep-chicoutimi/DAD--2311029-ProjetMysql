@@ -11,4 +11,10 @@
     <PackageReference Include="MySql.Data" Version="9.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="BibliothequeFonctionsDeBase">
+      <HintPath>..\..\BibliothequeFonctions\BibliothequeFonctions\obj\Debug\net8.0\BibliothequeFonctionsDeBase.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
